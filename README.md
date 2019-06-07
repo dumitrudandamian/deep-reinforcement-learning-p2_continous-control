@@ -21,7 +21,7 @@ The Benchmark Mean Reward is 30 over 100 episodes.
     - Windows (32-bit): [**Version 1: One (1) Agent**](https://s3-us-west-1.amazonaws.com/udacitydrlnd/P2/Reacher/one_agent/Reacher_Windows_x86_32.zip), [**Version 2: Twenty (20) Agents**](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86.zip)
     - Windows (64-bit): [**Version 1: One (1) Agent**](https://s3-us-west-1.amazonaws.com/udacitydrlnd/P2/Reacher/one_agent/Reacher_Windows_x86_64.zip), [**Version 2: Twenty (20) Agents**](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
     
-3. Place the file in the `env/` sub-folder, and unzip (or decompress) the file. 
+3. Create `env/` sub-folder, place the env files in it and unzip (or decompress) them. 
 
 ## Instructions
 
